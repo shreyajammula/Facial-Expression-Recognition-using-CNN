@@ -16,7 +16,7 @@ This project involves training a Convolutional Neural Network (CNN) for facial e
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AjayK47/Face-Emotion-Detection_CNN.git
+   git clone https://github.com/shreyajammula/Face-Emotion-Detection_CNN.git
    ``` 
 2.  Run Model_train.ipynb to train the CNN model and save the model architecture and weights
 
